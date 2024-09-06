@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Page title</title>
+</head>
+<body>
+    
+    <link rel="stylesheet" href="bootstrap.min.css">
+  
+  <link rel="stylesheet" href="css.css" type='text/css'>
+  <link href='font.css' rel='stylesheet' type='text/css'>
+</head>
+
+  <div class="box">
+    <div id="overlay">
+      <div class="image">
+        <div class="trick">
+
+        </div>
+      </div>
+      <ul class="text">Jenelle Dimaandal</ul>
+      <div class="text1">HTML + CSS</div>
+        <h1>Introduction</h1>
+        <img src="inchang.jpg" alt="My Graduation Picture"       width="100">
+
+
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading " role="tab" id="headingOne">
+      <h4 class="panel-title ">
+        <a role="button" data-toggle="collapse" data-parent="#accordion"  aria-expanded="" aria-controls="collapseOne">
+          <div class="title  btn btn-danger btn-outline btn-lg">ABOUT ME</div>
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" align="justify" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+        I'm Jenelle Dimaandal, 19 years old, I live in San Jose Lipa City, I'm two siblings, I'm the youngest, My hobbies are playing volleyball and dancing, Currently i'm 2nd year college  I'm studying at Kolehiyo ng Lungsod ng Lipa, My course is Bachelor of Science in Computer Science, I hope I finish college so that when the time comes I can find a good job and help my parents.
+        
+      </div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"  aria-expanded="false" aria-controls="collapseThree">
+          <div class="title btn btn-danger btn-outline
+          btn-lg">CONTACT ME</div>
+        </a>
+      </h4>
+    </div>
+   
+      <div class="panel-body">
+          
+
+        
+        
+                  <form id="form" class="topBefore">
+
+            <input id="name" type="text" placeholder="NAME">
+            <input id="email" type="text" placeholder="E-MAIL">
+            <textarea id="message" type="text" placeholder="MESSAGE"></textarea>
+            <input id="submit" type="submit" value="Submit Now!">
+
+          </form>
+          
+          <h1>My Hobbies</h1>
+  <table>
+      <thead>
+          <tr>
+              <th>Playing Volleyball</th>
+              <th>Mobile Games</th>
+              <th>Dancing and Singing</th>   
+          
+
+    </div>
+  </div>
+</div>
